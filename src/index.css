@@ -1,0 +1,60 @@
+.ErrorPage{
+    position: fixed;
+    top: 0;
+    width: 100vw;
+    height: 100vh;
+    background-color: #e1b12c;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.navbar{
+    box-shadow: 0 8px 6px -6px #dcdde1;
+    margin-bottom: 50px;
+   
+}
+.nav-link{
+    color:#747d8c !important;
+    font-size: small;
+}
+.dash{
+   margin-top: 80px;
+    
+}
+.task-icon{
+top:3px;
+   right: 100px;
+   font-size: x-large;
+   position: absolute;
+ 
+ 
+}
+.task-lbl{
+    color:#747d8c !important;
+    font-size: small;
+}
+.action-btn{
+    margin: 3px ;
+}
+.edit-link{
+    text-decoration: none;
+   color: #2ed573;
+}
+.edit-link:hover{
+    text-decoration: none;
+    color:#747d8c;
+    
+}
+.delete-link{
+    text-decoration: none;
+    color:#ff7f50;
+}
+.delete-link:hover{
+    text-decoration: none;
+    color: #747d8c;
+}
+.tbl{
+    color:#747d8c !important;
+    font-size: small;
+}
